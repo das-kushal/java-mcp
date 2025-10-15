@@ -3,7 +3,6 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 .kotlin
-.env
 ### IntelliJ IDEA ###
 .idea/modules.xml
 .idea/jarRepositories.xml
@@ -34,7 +33,9 @@ build/
 
 ### VS Code ###
 .vscode/
-*.env
 
 ### Mac OS ###
 .DS_Store
+
+
+.env
